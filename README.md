@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
@@ -35,55 +34,12 @@
 
 ---
 
-## 📂 Пиннерленные репозитории
+## 📂 Проекты
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gvaysman/project-a">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvaysman&repo=project-a&theme=vue" alt="Project A" />
-      </a>
-      <br/>
-      <strong>Project A</strong>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gvaysman/project-b">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvaysman&repo=project-b&theme=vue" alt="Project B" />
-      </a>
-      <br/>
-      <strong>Project B</strong>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gvaysman/project-c">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvaysman&repo=project-c&theme=vue" alt="Project C" />
-      </a>
-      <br/>
-      <strong>Project C</strong>
-    </td>
-  </tr>
-</table>
+- **[Проект A](https://github.com/gvaysman/project-a)** — RESTful API на Django и DRF с JWT-аутентификацией и пагинацией.
+- **[Проект B](https://github.com/gvaysman/project-b)** — Микросервисы на FastAPI с Celery и Kafka, Docker-compose.
+- **[Проект C](https://github.com/gvaysman/project-c)** — Анализ данных и ML-модель на Pandas и Scikit-learn.
 
----
-
-## 📈 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvaysman&show_icons=true&theme=vue" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvaysman&layout=compact&theme=vue" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gvaysman&theme=github" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gvaysman&theme=dracula&row=1&column=5" alt="Trophies" />
-</p>
-
----
 
 ## 💬 Цитата дня
 
